@@ -1,0 +1,5 @@
+(fp_lib_table
+	(version 7)
+	(lib (name "RS485_TTL_footprint") (type "KiCad") (uri "${KIPRJMOD}/RS485_TTL_footprint.pretty") (options "") (descr ""))
+	(lib (name "LORA_footprint") (type "KiCad") (uri "${KIPRJMOD}/LORA_footprint.pretty") (options "") (descr ""))
+)
